@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971331782820",
+    "firebase_url": "https://therapy-ai-d561f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "therapy-ai-d561f",
+    "storage_bucket": "therapy-ai-d561f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971331782820:android:bc737ad9ecadbd69e17e31",
+        "android_client_info": {
+          "package_name": "com.example.fypp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971331782820-nh0oq5f32rta7ad7vb0llq411l8sbpt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBemTRc0PHlx_Xl8X34TQi9s9iVqhTxP2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971331782820-nh0oq5f32rta7ad7vb0llq411l8sbpt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971331782820-2gi9b58p65illfnps5sg4imgtk4rcijv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fypp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
